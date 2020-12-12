@@ -1,36 +1,60 @@
-## Welcome to GitHub Pages
+## Welcome to #LeedsAzure
 
-You can use the [editor on GitHub](https://github.com/LeedsAzure/LeedsAzure.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site contains important information around what LeedsAzure is all about.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a User Group community that is focused on all things Azure & is based in Leeds.
 
-### Markdown
+We were founded in January 2020, with an aim to bring to Leeds a thriving in-person Azure User Group community, & then Covid hit which haltered plans to bring in person events, though we did run a few virtual events between April 2020 & July 2020.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are planning a series of topics for 2021 & intend to run at least 1 group each month, starting with virtual events in early January, and moving to Hybrid Events (in person but accessible virtually too) as it is deemed safe to do so.
 
-```markdown
-Syntax highlighted code block
+You can find us over on the [Meetup Group](https://www.meetup.com/LeedsAzure/)  
+You can follow us on [Twitter](https://twitter.com/LeedsAzure)
 
-# Header 1
-## Header 2
-### Header 3
+### What can you expect from the LeedsAzure User Group
 
-- Bulleted
-- List
+We run like a typical user group with a variety of different ways that we can be interacted with
 
-1. Numbered
-2. List
+We will commit to run at least 12 events across the 2021 calendar year consisting of either
+- Evening User Groups
+    -  Typically consisting of 1 or 2 presented sessions per group
+- Lunch and Learns
+    - Short easily digestible topic overviews
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+We may also decided to run a number of the following types of events
+-  Trainer lead workshops
+    - Free or Low Cost (Just enough to cover any venue hire & food costs)
+- Weekday & Weekend Events
+    - Free or Low Cost (Just enough to cover any venue hire & food costs)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Founders
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeedsAzure/LeedsAzure.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| Ryan Yates (MVP, MBCS) | Rik Hepworth (MVP, RD, MBCS)|
+| :------------- | :----------: |
+| ![Ryan Yates](https://pbs.twimg.com/profile_images/1223471009765957632/8JHaU6cD_400x400.jpg)| ![Rik Hepworth](https://pbs.twimg.com/profile_images/831984389135425538/VGX4AplO_400x400.png)|
+|  @ryanyates1990  |  @rikhepworth  |
+
+
+### Sponsors
+
+| Microsoft | Black Marble | You |
+| :------------- | :----------: | :----------: |
+| ![Microsoft](https://pbs.twimg.com/profile_images/1064905586398109696/oGW_cGnP_400x400.jpg)| ![Black Marble](https://pbs.twimg.com/profile_images/1333730294638243841/eGNHMjSb_400x400.jpg)| ?????? |
+|  @Microsoft  |  @BlackMarble  | ?????? |
+
+### Community Code of Conduct
+
+As a Microsoft aligned User Group Community we follow the code of conduct for all Azure aligned community groups as detailed at [Azure Tech Groups Code of Conduct](https://developer.microsoft.com/en-us/azure-tech-groups/code-of-conduct)
+
+If you have attended one of our events and believe that a breach of the Code of conduct has occurred then you can choose to
+- Fill out this [Breech of Code of Conduct Form]() (coming soon)
+    - This form can be filled out anonymously
+    - It also allows you to provide some contact info, but you are **not** required to do so
+- Contact one of the founders
+- 
+
 
 ### Support or Contact
 
