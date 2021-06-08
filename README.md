@@ -41,7 +41,7 @@ We may also decided to run a number of the following types of events
 
 | Microsoft | Black Marble | You |
 | :------------- | :----------: | :----------: |
-| ![Microsoft](https://pbs.twimg.com/profile_images/1064905586398109696/oGW_cGnP_400x400.jpg)| ![Black Marble](https://pbs.twimg.com/profile_images/1333730294638243841/eGNHMjSb_400x400.jpg)| ?????? |
+| ![Microsoft](https://pbs.twimg.com/profile_images/1064905586398109696/oGW_cGnP_400x400.jpg)| ![Black Marble](https://pbs.twimg.com/profile_images/1390012376871747587/Plbmz9Ob_400x400.png)| ?????? |
 |  @Microsoft  |  @BlackMarble  | ?????? |
 
 ### Community Code of Conduct
