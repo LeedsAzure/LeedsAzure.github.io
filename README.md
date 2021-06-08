@@ -33,7 +33,7 @@ We may also decided to run a number of the following types of events
 
 | Ryan Yates (MVP, MBCS) | Rik Hepworth (MVP, RD, MBCS)|
 | :------------- | :----------: |
-| ![Ryan Yates](https://pbs.twimg.com/profile_images/1223471009765957632/8JHaU6cD_400x400.jpg)| ![Rik Hepworth](https://pbs.twimg.com/profile_images/831984389135425538/VGX4AplO_400x400.png)|
+| ![Ryan Yates](https://pbs.twimg.com/profile_images/1392448034206797825/045CVRyr_400x400.jpg)| ![Rik Hepworth](https://pbs.twimg.com/profile_images/831984389135425538/VGX4AplO_400x400.png)|
 |  @ryanyates1990  |  @rikhepworth  |
 
 
