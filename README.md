@@ -53,9 +53,3 @@ If you have attended one of our events and believe that a breach of the Code of 
     - This form can be filled out anonymously
     - It also allows you to provide some contact info, but you are **not** required to do so
 - Contact one of the founders
-- 
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
