@@ -13,15 +13,32 @@
 
 {% seo %}
   </head>
-
-  <body>
-    <header>
-      <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-      </div>
+    <body>
+      <header>
+        <div class="inner">
+        <table>
+          <tr>
+            <td>
+              <a href="{{ '/' | absolute_url }}">
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            </td>
+            <td>
+              <p>
+                <span>
+                  <img border=0 width=281 height=173 src="la_files/image002.png"
+                    alt="Logo&#10;&#10;Description automatically generated" v:shapes="Picture_x0020_1">
+                  <![endif]>
+                </span>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+            </td>
+          </tr>
+        </table>
+        </div>
     </header>
 
     <div id="content-wrapper">
